@@ -1,0 +1,12 @@
+{
+  "name": "support-sla-ui",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build-assets.mjs",
+    "dev": "node scripts/build-assets.mjs --watch"
+  },
+  "dependencies": {
+    "vue": "^3.5.45"
+  }
+}
